@@ -11,4 +11,4 @@
 
 - чат-бот: t.me/JavaSpecialSkilTestBot
 
-- Смотреть в папке <результат_программы>
+![чатбот результат](https://github.com/Tani-QA/Java_tasks/assets/115032148/dc3bdc8e-d62a-4057-a76b-9186df8c0220)
